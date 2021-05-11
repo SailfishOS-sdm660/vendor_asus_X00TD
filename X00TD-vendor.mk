@@ -1299,13 +1299,4 @@ PRODUCT_PACKAGES += \
     WfdService \
     dpmserviceapp \
     ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    QFingerprintService \
-    TimeService \
-    WfdCommon \
-    com.qti.snapdragon.sdk.display \
-    qcrilhook \
-    vendor.qti.hardware.alarm-V1.0-java \
-    vendor.qti.hardware.factory-V1.0-java \
-    vendor.qti.hardware.sensorscalibrate-V1.0-java
+    qcrilmsgtunnel
